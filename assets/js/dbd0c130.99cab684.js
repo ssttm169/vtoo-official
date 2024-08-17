@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvtoo_official=self.webpackChunkvtoo_official||[]).push([[44],{1091:(e,s,c)=>{c.r(s),c.d(s,{default:()=>f});c(6540);var a=c(4848);const f=()=>(0,a.jsx)(a.Fragment,{children:"Payment successful"})}}]);
