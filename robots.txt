@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /subscription/ultra
+Disallow: /subscription/pro
+Disallow: /payment/stripe/success
+Disallow: /auth/google/callback
+
+Sitemap: https://vtoo.app/sitemap.xml

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvtoo_official=self.webpackChunkvtoo_official||[]).push([[6739],{3351:(t,o,s)=>{s.r(o),s.d(o,{default:()=>f});var e=s(758),i=s(5557),a=s(6070);function f(){return(0,e.useEffect)((()=>{window.location.href="https://buy.stripe.com/aEU9DU5JvasO1Pi289"}),[]),(0,a.jsx)(i.rd,{to:"https://buy.stripe.com/aEU9DU5JvasO1Pi289"})}}}]);
